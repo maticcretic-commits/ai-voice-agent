@@ -1,5 +1,10 @@
 # AI Voice Agent
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/ai-voice-agent?style=social)](https://github.com/maticcretic-commits/ai-voice-agent/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/ai-voice-agent)](https://github.com/maticcretic-commits/ai-voice-agent/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/ai-voice-agent)
+
+
 A portfolio practice project: starter for the **AI voice-agent build** gig pattern
 (Vapi/Retell + Twilio, scheduling, CRM integration — the "$2,000 fixed" bracket).
 
